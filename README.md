@@ -1,2 +1,2 @@
 # ASE
-It is the website for Advanced Software Engineering.
+It is the website for Advanced Software Engineering course.
